@@ -10,8 +10,4 @@ public class Calculadora {
         return numero * numero * numero;
     }
     
-    public Double aCuatro(Double numero){
-        return numero * numero * numero * numero;
-    }
-    
 }
